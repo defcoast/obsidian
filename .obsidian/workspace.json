@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92fbda8b3cabf7a4",
+            "id": "1a223c52e9986022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/Типы соеденений (JOIN).md",
+                "file": "php/php.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,105 +21,15 @@
             }
           },
           {
-            "id": "9810300398362046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/SELF JOIN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2f6e22b9192c6ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/OUTER JOIN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cb863b1bca4ea1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/NATURAL JOIN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc44655c42d78964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/SQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c531fd93c055be",
+            "id": "9cd9e5a28a56e3ef",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "6136ca53a995ec9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/INNER JOIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfe8a278c8e94548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/Типы соеденений (JOIN).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57d1863cfb409acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для сдачи/SQL/Типы соединений (JOIN)/Типы соеденений (JOIN).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "max",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,16 +153,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9f3a948cd8ca8f75",
+  "active": "224cf81b4f9787c5",
   "lastOpenFiles": [
-    "Темы для сдачи/Темы для сдачи.md",
+    "php/php.ini.md",
+    "frontend/javascript",
+    "frontend",
+    "php/php.md",
+    "php",
+    "frontend/javascript/javascript.md",
+    "frontend/frontend.md",
     "Темы для сдачи/SQL/SQL.md",
+    "Темы для сдачи/Темы для сдачи.md",
+    "Темы для сдачи/SQL/Типы соединений (JOIN)/NATURAL JOIN.md",
+    "Спонтанные заметки/Гидратация.md",
+    "php/Pasted image 20230407170454.png",
+    "php/Pasted image 20230407170323.png",
+    "Спо.md",
+    "Спонтанные заметки",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/Типы соеденений (JOIN).md",
     "Темы для сдачи/SQL/Изображения/Pasted image 20230407115807.png",
     "Темы для сдачи/SQL/Изображения",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/SELF JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/INNER JOIN.md",
-    "Темы для сдачи/SQL/Типы соединений (JOIN)/NATURAL JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/OUTER JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/CROSS JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)",
