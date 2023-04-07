@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php.md",
+                "file": "Индекс.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9cd9e5a28a56e3ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "max",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -75,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Индекс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Индекс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Индекс.md"
+              }
             }
           }
         ]
@@ -153,17 +147,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "224cf81b4f9787c5",
+  "active": "1a223c52e9986022",
   "lastOpenFiles": [
+    "Темы для сдачи/SQL/SQL.md",
+    "Индекс.md",
+    "Темы для сдачи/Темы для сдачи.md",
+    "Темы для сдачи/SQL/первичный ключ.md",
+    "Темы для сдачи/SQL/Типы соединений (JOIN)/CROSS JOIN.md",
+    "первичный ключ (PRIMARY KEY).md",
+    "php/php.md",
     "php/php.ini.md",
     "frontend/javascript",
     "frontend",
-    "php/php.md",
     "php",
     "frontend/javascript/javascript.md",
     "frontend/frontend.md",
-    "Темы для сдачи/SQL/SQL.md",
-    "Темы для сдачи/Темы для сдачи.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/NATURAL JOIN.md",
     "Спонтанные заметки/Гидратация.md",
     "php/Pasted image 20230407170454.png",
@@ -176,7 +174,6 @@
     "Темы для сдачи/SQL/Типы соединений (JOIN)/SELF JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/INNER JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)/OUTER JOIN.md",
-    "Темы для сдачи/SQL/Типы соединений (JOIN)/CROSS JOIN.md",
     "Темы для сдачи/SQL/Типы соединений (JOIN)",
     "Темы для сдачи/SQL",
     "2023-04-07.md",
